@@ -1,0 +1,5 @@
+dbsqlite3
+.idea
+venv
+env
+.DS-Store
